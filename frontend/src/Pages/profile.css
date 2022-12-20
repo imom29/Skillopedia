@@ -1,0 +1,7 @@
+@media(width <= 300px){
+    .container-fluid{
+        /* display: block;
+         */
+         flex-direction: column;
+    }
+}

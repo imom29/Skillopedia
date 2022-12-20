@@ -1,0 +1,13 @@
+#searchDash{
+    width: 100%;
+    height: 1.5rem !important;
+}
+
+#i{
+    background: white;
+}
+
+#i:hover{
+    filter: drop-shadow(2px 2px 2px gray);
+    cursor: pointer;
+}
